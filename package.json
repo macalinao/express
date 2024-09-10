@@ -44,7 +44,7 @@
     "proxy-addr": "~1.0.5",
     "qs": "2.3.3",
     "range-parser": "~1.0.2",
-    "send": "0.10.1",
+    "send": "0.19.0",
     "serve-static": "~1.7.2",
     "type-is": "~1.5.5",
     "vary": "~1.0.0",
